@@ -12,16 +12,16 @@
 - Email me at **adsulchiranjiv958@gmail.com** for work inquiries or just to say hi 🎭
 
 ## Programming Language Stack
-- C, C++, JavaScript, TypeScript, Python, PHP
+- C, C++, JavaScript, Python, PHP
 
 ## Dev Stack
-- HTML5, CSS3, Tailwind CSS, Sass, React, Redux, Node.js, Express, Next.js, Ember.js
+- HTML5, CSS3, Tailwind CSS, React, Redux, Node.js, Express
 
 ## Database Stack
-- MySQL, MongoDB, PostgreSQL, Redis
+- MySQL, MongoDB, PostgreSQL
 
 ## Other Tools
-- Git, Postman, AWS, Docker, Jest
+- Git
 
 
  
