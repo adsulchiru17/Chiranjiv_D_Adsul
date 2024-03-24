@@ -2,20 +2,21 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Chiranjiv D Adsul </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://chiranjivadsul.me/" target="_blank" rel="noreferrer">Chiranjiv</a> 🌟 Welcome to my GitHub profile! I'm a passionate Web Developer with good hands on practice based in Mumbai, India. Feel free to reach out to me for any freelance projects or just to connect!</font></h3>
 
-  〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
 ## About Me
 - 📍 Mumbai, India
 - 💻I am currently working with technologies based on Javascript. Techs such as ReactJS, NodeJS.
 - ⚙️ Skilled in Frontend, and various aspects of web development.
 - I love building user-friendly and interactive applications. 
 
-  〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chiranjivdadsul/)
 - Email me at **adsulchiranjiv958@gmail.com** for work inquiries or just to say hi 🎭 
 
-  〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 #### Programming Language Stack
 <p align="left"> 
