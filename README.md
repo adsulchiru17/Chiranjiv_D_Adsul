@@ -14,7 +14,7 @@
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/chiranjivdadsul/)
-- Email me at **adsulchiranjiv958@gmail.com** for work inquiries or just to say hi 🎭 
+- Email me at **adsulchiranjiv958@gmail.com** for work inquiries or just to say hello 🎭 
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
