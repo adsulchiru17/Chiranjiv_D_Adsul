@@ -6,7 +6,7 @@
 
 ## About Me
 - 📍 Mumbai, India
-- 💻I am currently working with technologies based on Javascript. Techs such as ReactJS, NodeJS.
+- 💻I am currently working with technologies based on Javascript. Techs such as ReactJS, NodeJS, NextJS and Tailwind also.
 - ⚙️ Skilled in Frontend, and various aspects of web development.
 - I love building user-friendly and interactive applications. 
 
